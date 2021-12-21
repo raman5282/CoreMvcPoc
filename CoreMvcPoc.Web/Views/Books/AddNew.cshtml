@@ -1,0 +1,92 @@
+@model CoreMvcPoc.Entities.Book
+
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";   
+}
+
+<h2>Add Book</h2>
+@ViewBag.Error 
+@using (Html.BeginForm("Edit", "Books")) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Book</legend>          
+        @Html.HiddenFor(model => model.Id)
+        @Html.HiddenFor(model => model.UserId)
+        @Html.HiddenFor(model => model.Image, new { id = "hdnImage" })  
+        <image id="imgBook" name="Image"/>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Image)
+        </div>
+        <div class="editor-field">
+            <input type="file" class="classImg" />                            
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Author)
+        </div>
+        <div class="editor-field">
+             @Html.EditorFor(model => model.Author)
+            @Html.ValidationMessageFor(model => model.Author)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Price)
+        </div>
+        <div class="editor-field">
+             @Html.EditorFor(model => model.Price)
+            @Html.ValidationMessageFor(model => model.Price)
+        </div>
+        
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section Scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script type="text/javascript">
+        $().ready(function () {    
+            $(".classImg").on('change', function() {
+                var files = this.files;
+                var formData = new FormData();
+                for (var i = 0; i != files.length; i++) {
+                    formData.append("files", files[i]);
+                }
+                formData.append("image", $("#imgBook").attr("src"));
+                 $.ajax(
+                    {
+                    url: "UploadFile",
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    type: "POST",
+                    success: function (data) {
+                            if(data.success){
+                               var getUrl = window.location;
+                               var imageUrl = getUrl .protocol + "//" + getUrl.host + "/uploads/img/";
+                              // var imageUrl = re.exec(window.location.href);
+                               $("#imgBook").attr("src",imageUrl + data.message);
+                               $("#hdnImage").attr("value",data.message);
+                            //    alert(data.message);
+                            }
+                            
+                        }
+                    }
+                );               
+            });
+        });
+    </script>
+}

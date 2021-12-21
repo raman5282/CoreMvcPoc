@@ -1,0 +1,38 @@
+@model CoreMvcPoc.Entities.Book
+
+@{
+    ViewBag.Title = "Book Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Book Details</h2>
+<legend>Book</legend>
+@Html.HiddenFor(model => model.Image, new { id = "hdnImage" })  
+<image id="imgBook" name="Image"/>
+<div class="editor-label">
+    @Html.LabelFor(model => model.Name) :  @Html.Label(Model.Name)   
+</div>
+<div class="editor-label">
+    @Html.LabelFor(model => model.Author) : @Html.Label(Model.Author)  
+</div>
+<div class="editor-label">
+    @Html.LabelFor(model => model.Price) :  @Html.Label(Model.Price) 
+</div>      
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section Scripts
+{
+    <script type="text/javascript">
+        $().ready(function () {    
+            var imgVal = $("#hdnImage").attr("value");
+            if(imgVal!=null&&imgVal!="")
+            {
+                 var getUrl = window.location;
+                 var imageUrl = getUrl .protocol + "//" + getUrl.host + "/uploads/img/";
+                 $("#imgBook").attr("src",imageUrl + imgVal);
+            }
+        });
+    </script>    
+}
+

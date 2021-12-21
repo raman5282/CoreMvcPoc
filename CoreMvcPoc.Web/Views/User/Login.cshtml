@@ -1,0 +1,42 @@
+@model CoreMvcPoc.Entities.CredentialsViewModel
+@{
+    ViewBag.Title = "Login";   
+}
+
+<h4>Login Form</h4>
+<!-- 
+<div asp-validation-summary="ModelOnly"></div> -->
+
+@using (Html.BeginForm("Login", "User", FormMethod.Post))  
+{
+  @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+  <br />
+  <table class="login_container">
+    <tr>
+      <td>
+        @Html.DisplayNameFor(m=>m.UserName)&nbsp;
+      </td>
+      <td>
+        @Html.TextBoxFor(m=>m.UserName)
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>@Html.ValidationMessageFor(m=>m.UserName)</td>
+    </tr>
+    <tr>
+      <td>@Html.DisplayNameFor(m=>m.Password)&nbsp;</td>
+      <td>@Html.PasswordFor(m=>m.Password)</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>@Html.ValidationMessageFor(m=>m.Password)</td>
+    </tr>  
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+        <input type="submit" value="Submit" />    
+      </td>
+    </tr>  
+  </table>
+}

@@ -1,0 +1,40 @@
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.deps.json
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.csproj.CoreCompileInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfoInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfo.cs
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Copy\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.deps.json
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.csproj.CoreCompileInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfoInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfo.cs
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Paging\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.deps.json
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.csproj.CoreCompileInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfoInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfo.cs
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Onion\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.deps.json
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.csproj.CoreCompileInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfoInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfo.cs
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - DragDrop\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.deps.json
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\bin\Debug\netcoreapp2.0\NSServiceManager.pdb
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.csproj.CoreCompileInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfoInputs.cache
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.AssemblyInfo.cs
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.dll
+D:\Projects\dotnetcore\CoreMvcPoc - Unit of work\NSServiceManager\obj\Debug\netcoreapp2.0\NSServiceManager.pdb

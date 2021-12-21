@@ -1,0 +1,79 @@
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.json
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.dev.json
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CopyComplete
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csprojResolveAssemblyReference.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.json
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.dev.json
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csprojResolveAssemblyReference.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CopyComplete
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.json
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.dev.json
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csprojResolveAssemblyReference.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CopyComplete
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.json
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.dev.json
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.dll
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csprojResolveAssemblyReference.cache
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CopyComplete
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.json
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.runtimeconfig.dev.json
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/bin/Debug/netcoreapp2.0/NSServiceManager.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.csproj.CopyComplete
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Web/obj/Debug/netcoreapp2.0/CoreMvcPoc.Web.pdb

@@ -1,0 +1,32 @@
+@model CoreMvcPoc.Entities.User
+@{
+    ViewBag.Title = "Sign Up";   
+}
+
+<h4>Registration Form</h4>
+<!-- 
+<div asp-validation-summary="ModelOnly"></div> -->
+
+@using (Html.BeginForm("SignUp", "User", FormMethod.Post))  
+{
+  @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+  <br />
+  @Html.DisplayNameFor(m=>m.Email)
+  @Html.TextBoxFor(m=>m.Email)
+  @Html.ValidationMessageFor(m=>m.Email)
+  <br />
+  @Html.DisplayNameFor(m=>m.Password)
+  @Html.PasswordFor(m=>m.Password)
+  @Html.ValidationMessageFor(m=>m.Password)
+  <br />
+  @Html.DisplayNameFor(m=>m.FirstName)
+  @Html.TextBoxFor(m=>m.FirstName)
+  @Html.ValidationMessageFor(m=>m.FirstName)
+  <br />
+  @Html.DisplayNameFor(m=>m.LastName)
+  @Html.TextBoxFor(m=>m.LastName)
+  @Html.ValidationMessageFor(m=>m.LastName)
+  <br />  
+  <br />
+  <input type="submit" value="Submit" />    
+}

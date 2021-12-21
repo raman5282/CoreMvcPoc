@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Access denied";
+}
+@using System.Linq
+@using CoreMvcPoc.Web
+@using Microsoft.AspNetCore.Http
+<header>
+    <h2 class="text-danger">@ViewData["Title"]</h2>
+    <p class="text-danger">You do not have access to this resource.</p>
+</header>
+<div>
+    @if (User.Identity.IsAuthenticated)
+    {
+        var claimsIdentity = User.Identity as System.Security.Claims.ClaimsIdentity;        
+        if(claimsIdentity!=null && claimsIdentity.FindFirst(System.Security.Claims.ClaimTypes.Role)!=null && claimsIdentity.FindFirst(System.Security.Claims.ClaimTypes.Role).Value == Convert.ToString(RoleType.Admin))
+        {
+            <p class="text-danger">Navigate to <a href="/Admin">Admin</a></p>
+        }
+        else
+        {
+            <p class="text-danger">Navigate to <a href="/Home">Site</a></p>
+        }
+    }
+</div>

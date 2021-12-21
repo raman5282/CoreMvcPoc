@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.BLL/CoreMvcPoc.BLL.csproj": {}
+  },
+  "projects": {
+    "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.BLL/CoreMvcPoc.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.BLL/CoreMvcPoc.BLL.csproj",
+        "projectName": "CoreMvcPoc.BLL",
+        "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.BLL/CoreMvcPoc.BLL.csproj",
+        "packagesPath": "/Users/ramanjitsingh/.nuget/packages/",
+        "outputPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ramanjitsingh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.DAL/CoreMvcPoc.DAL.csproj": {
+                "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.DAL/CoreMvcPoc.DAL.csproj"
+              },
+              "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/CoreMvcPoc.Entities.csproj": {
+                "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/CoreMvcPoc.Entities.csproj"
+              },
+              "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/NSServiceManager/ServiceManager.csproj": {
+                "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/NSServiceManager/ServiceManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.DAL/CoreMvcPoc.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.DAL/CoreMvcPoc.DAL.csproj",
+        "projectName": "CoreMvcPoc.DAL",
+        "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.DAL/CoreMvcPoc.DAL.csproj",
+        "packagesPath": "/Users/ramanjitsingh/.nuget/packages/",
+        "outputPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ramanjitsingh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/CoreMvcPoc.Entities.csproj": {
+                "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/CoreMvcPoc.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "BCrypt-Official": {
+              "target": "Package",
+              "version": "[0.1.109, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[2.0.0-preview1-final, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/CoreMvcPoc.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/CoreMvcPoc.Entities.csproj",
+        "projectName": "CoreMvcPoc.Entities",
+        "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/CoreMvcPoc.Entities.csproj",
+        "packagesPath": "/Users/ramanjitsingh/.nuget/packages/",
+        "outputPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/CoreMvcPoc.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ramanjitsingh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/NSServiceManager/ServiceManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/NSServiceManager/ServiceManager.csproj",
+        "projectName": "ServiceManager",
+        "projectPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/NSServiceManager/ServiceManager.csproj",
+        "packagesPath": "/Users/ramanjitsingh/.nuget/packages/",
+        "outputPath": "/Users/ramanjitsingh/Data Backup/CoreMvcPoc - Unit of work - New/NSServiceManager/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ramanjitsingh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

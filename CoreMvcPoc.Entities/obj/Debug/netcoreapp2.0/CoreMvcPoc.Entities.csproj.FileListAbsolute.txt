@@ -1,0 +1,40 @@
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Copy/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Paging/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Onion/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - DragDrop/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.deps.json
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/bin/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.csproj.CoreCompileInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfoInputs.cache
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.AssemblyInfo.cs
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.dll
+D:/Projects/dotnetcore/CoreMvcPoc - Unit of work/CoreMvcPoc.Entities/obj/Debug/netcoreapp2.0/CoreMvcPoc.Entities.pdb
